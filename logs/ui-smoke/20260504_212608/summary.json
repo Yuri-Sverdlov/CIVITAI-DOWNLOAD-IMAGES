@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "run_dir": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608",
+  "server_log": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\ui_server.log",
+  "results": [
+    {
+      "name": "nexblend_images",
+      "status": "success",
+      "source_mode": "username_query",
+      "user_output_dir": "G:\\tmp\\task10_ui_smoke_nexblend_images\\NexBlend",
+      "report_file": "G:\\tmp\\task10_ui_smoke_nexblend_images\\NexBlend\\report_20260504_212613.json",
+      "downloaded": 1,
+      "skipped": 4,
+      "failed": 0,
+      "screenshot_before": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\nexblend_images_before.png",
+      "screenshot_after": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\nexblend_images_after.png",
+      "api_response_file": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\nexblend_images_api.json"
+    },
+    {
+      "name": "nexblend_videos",
+      "status": "success",
+      "source_mode": "username_query",
+      "user_output_dir": "G:\\tmp\\task10_ui_smoke_nexblend_videos\\NexBlend",
+      "report_file": "G:\\tmp\\task10_ui_smoke_nexblend_videos\\NexBlend\\report_20260504_212615.json",
+      "downloaded": 1,
+      "skipped": 4,
+      "failed": 0,
+      "screenshot_before": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\nexblend_videos_before.png",
+      "screenshot_after": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\nexblend_videos_after.png",
+      "api_response_file": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\nexblend_videos_api.json"
+    },
+    {
+      "name": "lannfield_fallback_on",
+      "status": "success",
+      "source_mode": "username_query",
+      "user_output_dir": "G:\\tmp\\task10_ui_smoke_lannfield_fallback_on\\Lannfield",
+      "report_file": "G:\\tmp\\task10_ui_smoke_lannfield_fallback_on\\Lannfield\\report_20260504_212619.json",
+      "downloaded": 1,
+      "skipped": 4,
+      "failed": 0,
+      "screenshot_before": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\lannfield_fallback_on_before.png",
+      "screenshot_after": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\lannfield_fallback_on_after.png",
+      "api_response_file": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\lannfield_fallback_on_api.json"
+    },
+    {
+      "name": "lannfield_fallback_off",
+      "status": "success",
+      "source_mode": "username_query",
+      "user_output_dir": "G:\\tmp\\task10_ui_smoke_lannfield_fallback_off\\Lannfield",
+      "report_file": "G:\\tmp\\task10_ui_smoke_lannfield_fallback_off\\Lannfield\\report_20260504_212621.json",
+      "downloaded": 1,
+      "skipped": 4,
+      "failed": 0,
+      "screenshot_before": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\lannfield_fallback_off_before.png",
+      "screenshot_after": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\lannfield_fallback_off_after.png",
+      "api_response_file": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\ui-smoke\\20260504_212608\\lannfield_fallback_off_api.json"
+    }
+  ]
+}

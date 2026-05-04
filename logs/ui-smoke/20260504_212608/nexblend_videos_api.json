@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "message": "completed",
+  "username": "NexBlend",
+  "source_mode": "username_query",
+  "metadata_file": "G:\\tmp\\task10_ui_smoke_nexblend_videos\\NexBlend\\metadata_20260504_212614.json",
+  "report_file": "G:\\tmp\\task10_ui_smoke_nexblend_videos\\NexBlend\\report_20260504_212615.json",
+  "user_output_dir": "G:\\tmp\\task10_ui_smoke_nexblend_videos\\NexBlend",
+  "downloaded": 1,
+  "skipped": 4,
+  "failed": 0
+}

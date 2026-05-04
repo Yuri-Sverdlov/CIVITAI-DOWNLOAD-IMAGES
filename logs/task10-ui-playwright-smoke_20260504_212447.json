@@ -1,0 +1,11 @@
+{
+  "job_id": "task10-ui-playwright-smoke_20260504_212447",
+  "name": "task10-ui-playwright-smoke",
+  "cmd": "python G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\ui_smoke_playwright.py",
+  "pid": 35440,
+  "started_at": "2026-05-04T21:24:47",
+  "finished_at": "2026-05-04T21:25:18",
+  "status": "done",
+  "log_path": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\task10-ui-playwright-smoke_20260504_212447.log",
+  "error": null
+}

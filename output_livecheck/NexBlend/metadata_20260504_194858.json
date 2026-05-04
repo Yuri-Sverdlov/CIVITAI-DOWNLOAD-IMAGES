@@ -1,0 +1,589 @@
+{
+  "username": "NexBlend",
+  "fetchedAt": "2026-05-04T19:48:58",
+  "source_mode": "username_query",
+  "count": 11,
+  "filters": {
+    "limit": 20,
+    "nsfw": null,
+    "sort": "Newest",
+    "period": null,
+    "maxPages": 1,
+    "maxItems": null,
+    "mediaType": "image"
+  },
+  "items": [
+    {
+      "id": 129411322,
+      "postId": 28331966,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f4a71e7c-a8a7-4bc4-8d8a-b8440b4a0840/original=true/f4a71e7c-a8a7-4bc4-8d8a-b8440b4a0840.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T15:20:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UMH_;{-%koRk~qV@xuxuJBNFxabFxufiD%x[",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A slender  beautiful korean woman standing in a flower shop, admiring a bouquet of flowers, touching a petal.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 1,
+        "likeCount": 7,
+        "dislikeCount": 0,
+        "heartCount": 1,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129411030,
+      "postId": 28331885,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1890f787-fb5b-4de2-898d-dcc492474a24/original=true/1890f787-fb5b-4de2-898d-dcc492474a24.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T13:50:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UYE|lJkD4;t8yZj[%MkCM|j[%KWBx^j]MxWB",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman standing in a full-length pose with closed eyes and a shy smile, wearing a white dress, against a blue sky and ocean-themed studio background.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 3,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129410811,
+      "postId": 28331823,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e477c6b-fb91-4649-9492-a8f01023aeb4/original=true/3e477c6b-fb91-4649-9492-a8f01023aeb4.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T12:20:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UCJbN*?G*0pJ9HDitRtlD%tR.8og-;WCRORi",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman in a delicate lace pants and a white cashmere jacket with lace trim, gently touching lips with a subtle smile, in an elegant pose, in a modern minimalist studio lit by soft light.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 1,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129400026,
+      "postId": 28329512,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/72813f12-c2ff-42e3-aeba-516e2eaf7f7a/original=true/72813f12-c2ff-42e3-aeba-516e2eaf7f7a.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T11:20:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UPJRXD%MXSRjNFWBIot7_NbI^*xZWARj9FbH",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman smiling brightly, holding a small white object, standing in a sunlit park with a sign that says 'the fact' behind her.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 1,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129399964,
+      "postId": 28329503,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cccc8cd1-82ac-4585-9701-61d98d07d731/original=true/cccc8cd1-82ac-4585-9701-61d98d07d731.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T10:50:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UYJa[o?ax?Wn_NWVM{of?J%3M}a$.8oyRQj?",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman sitting on a patio outside a golf clubhouse, bathed in soft golden light, smiling gently, wearing a stylish golf outfit,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 2,
+        "laughCount": 0,
+        "likeCount": 1,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129399913,
+      "postId": 28329492,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/84b5c563-b2fb-4c71-8b05-3f6af150c1d7/original=true/84b5c563-b2fb-4c71-8b05-3f6af150c1d7.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T10:20:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "U3G8ZR$+GQ0100~V^*^%0001^k9G~B^*00V@",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman emerging from an enchanted glowing vintage photo frame, her hand gently touching the glass edge, magical sparks and shimmering stardust scattering from her fingertips, wearing an elegant rose gold dress, deep expressive eyes filled with quiet longing gazing directly at the viewer, dreamlike background of faded memories, floating arcane letters, glowing bioluminescent flowers, ethereal butterflies fluttering in sepia tones.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 3,
+        "dislikeCount": 0,
+        "heartCount": 1,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129399872,
+      "postId": 28329483,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/366c44ae-b05b-482f-b85d-ce279e122e1f/original=true/366c44ae-b05b-482f-b85d-ce279e122e1f.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T09:50:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UGH.4u?v?bxt~payIVRj%zj@?Gt7$$Rj9FjF",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman holding a coffee cup, hand on face, looking directly at the camera standing in a modern cafe.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 4,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129399852,
+      "postId": 28329476,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/65bd42dc-c5f2-41e3-93b5-322a4a6ac2ea/original=true/65bd42dc-c5f2-41e3-93b5-322a4a6ac2ea.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T09:20:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UMKd;@xuoyM{~qjZofax%gj]oKWW_3ofIUs:",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman standing in a brightly lit convenience store, surrounded by shelves stocked with various snacks and drinks, smiling looking at the viewer.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 1,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129399532,
+      "postId": 28329421,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e832fb84-c546-454c-b682-610d374ba830/original=true/e832fb84-c546-454c-b682-610d374ba830.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T06:20:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UVJu4I?wXSoL-;t7ogRkIooyxtof%MofRPs:",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman standing in a sunlit studio, her elaborate updo shimmering in the light streaming through a large window.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 2,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129397400,
+      "postId": 28328965,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4888073b-d24e-40c1-a927-3db4319d4708/original=true/4888073b-d24e-40c1-a927-3db4319d4708.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T04:20:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UWLqhG?b%#xutSjZofx]?^WV%MfRxuWBM_WB",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman in a beige dress, smiling softly, waving her hands, looking around a brightly lit studio.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 5,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129397359,
+      "postId": 28328953,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/691af0b3-0289-49bf-a945-828076835f85/original=true/691af0b3-0289-49bf-a945-828076835f85.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T03:20:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UAIF0nM|_N-:?c-;E1Mx_N8_I9-;InRjV@M|",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman sitting on a steel chair in a modern shop interior, looking around curiously at the shelves stocked with colorful gadgets and minimalist homeware.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 5,
+        "dislikeCount": 0,
+        "heartCount": 1,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    }
+  ]
+}

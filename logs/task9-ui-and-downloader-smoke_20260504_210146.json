@@ -1,0 +1,11 @@
+{
+  "job_id": "task9-ui-and-downloader-smoke_20260504_210146",
+  "name": "task9-ui-and-downloader-smoke",
+  "cmd": "python G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\task9_checks.py",
+  "pid": 48384,
+  "started_at": "2026-05-04T21:01:46",
+  "finished_at": "2026-05-04T21:01:54",
+  "status": "done",
+  "log_path": "G:\\AI\\_MY_PROGRAMMING_2\\CIVITAI-DOWNLOAD-IMAGES\\logs\\task9-ui-and-downloader-smoke_20260504_210146.log",
+  "error": null
+}

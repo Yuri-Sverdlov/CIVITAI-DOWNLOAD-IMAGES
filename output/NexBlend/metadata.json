@@ -1,0 +1,147 @@
+{
+  "username": "NexBlend",
+  "fetchedAt": "2026-05-04T17:52:51",
+  "count": 3,
+  "filters": {
+    "limit": 100,
+    "nsfw": null,
+    "sort": "Newest",
+    "period": null,
+    "maxPages": 1,
+    "maxItems": 3,
+    "mediaType": "all"
+  },
+  "items": [
+    {
+      "id": 129411030,
+      "postId": 28331885,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1890f787-fb5b-4de2-898d-dcc492474a24/original=true/1890f787-fb5b-4de2-898d-dcc492474a24.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T13:50:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UYE|lJkD4;t8yZj[%MkCM|j[%KWBx^j]MxWB",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman standing in a full-length pose with closed eyes and a shy smile, wearing a white dress, against a blue sky and ocean-themed studio background.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 3,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129411041,
+      "postId": 28331885,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/07b3f63f-81ba-45e6-a8f3-18dcec0d1b5c/original=true/07b3f63f-81ba-45e6-a8f3-18dcec0d1b5c.mp4",
+      "username": "NexBlend",
+      "name": null,
+      "type": "video",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T13:50:00.000Z",
+      "width": 512,
+      "height": 768,
+      "mimeType": null,
+      "hash": "UXEWwfkD4;t8yZj[%MkCNGj@%1WBx^j]MxWB",
+      "meta": {
+        "prompt": "A woman in a white sleeveless dress is standing on the beach and closing her eyes, Her long hair is fluttering in the wind, and, Ripples are rising on the surface of the sea,"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 2,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    },
+    {
+      "id": 129410811,
+      "postId": 28331823,
+      "url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e477c6b-fb91-4649-9492-a8f01023aeb4/original=true/3e477c6b-fb91-4649-9492-a8f01023aeb4.jpeg",
+      "username": "NexBlend",
+      "name": null,
+      "type": "image",
+      "nsfwLevel": "None",
+      "nsfw": false,
+      "createdAt": "2026-05-04T12:20:00.000Z",
+      "width": 1256,
+      "height": 1880,
+      "mimeType": null,
+      "hash": "UCJbN*?G*0pJ9HDitRtlD%tR.8og-;WCRORi",
+      "meta": {
+        "seed": 5334210,
+        "Model": "Z Image Turbo",
+        "steps": 9,
+        "width": 1256,
+        "hashes": {
+          "model": "2407613050",
+          "lora:NexBlend Asian 02 Face ZIT": "129E074D34"
+        },
+        "height": 1880,
+        "prompt": "masterpiece,best quality,high res image,highly detailed,cinematic-lighting,looking at viewer,A  beautiful korean woman in a delicate lace pants and a white cashmere jacket with lace trim, gently touching lips with a subtle smile, in an elegant pose, in a modern minimalist studio lit by soft light.,<lora:NexBlend Asian 02 Face ZIT:1>,nexblend",
+        "sampler": "Euler",
+        "cfgScale": 7,
+        "resources": [
+          {
+            "hash": "129E074D34",
+            "name": "NexBlend Asian 02 Face ZIT",
+            "type": "lora"
+          },
+          {
+            "hash": "2407613050",
+            "name": "Z Image Turbo",
+            "type": "model"
+          }
+        ],
+        "Model hash": "2407613050",
+        "negativePrompt": "(worst quality, low quality:1.4),bad anatomy,deformed body,mutated,broken limbs,bad hands,extra fingers,missing fingers,bad feet,asymmetrical face,ugly face,skin blemishes,acnes,fat,thick thighs,3d,source_furry,grayscale,monochrome,duplicate,watermark,signature,text,jpeg artifacts,nsfw,nude,naked"
+      },
+      "stats": {
+        "cryCount": 0,
+        "laughCount": 0,
+        "likeCount": 1,
+        "dislikeCount": 0,
+        "heartCount": 0,
+        "commentCount": 0
+      },
+      "generationProcess": null
+    }
+  ]
+}

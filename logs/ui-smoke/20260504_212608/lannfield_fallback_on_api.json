@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "message": "completed",
+  "username": "Lannfield",
+  "source_mode": "username_query",
+  "metadata_file": "G:\\tmp\\task10_ui_smoke_lannfield_fallback_on\\Lannfield\\metadata_20260504_212617.json",
+  "report_file": "G:\\tmp\\task10_ui_smoke_lannfield_fallback_on\\Lannfield\\report_20260504_212619.json",
+  "user_output_dir": "G:\\tmp\\task10_ui_smoke_lannfield_fallback_on\\Lannfield",
+  "downloaded": 1,
+  "skipped": 4,
+  "failed": 0
+}

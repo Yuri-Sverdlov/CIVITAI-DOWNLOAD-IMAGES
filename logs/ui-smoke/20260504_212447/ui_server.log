@@ -1,0 +1,49 @@
+INFO:     Started server process [38208]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:61074 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61478 - "GET / HTTP/1.1" 200 OK
+Fetching page 1 [username_query]...
+Collected 100 items on page 1 (total 100).
+Reached --max-items=5, trimming and stopping.
+Data source mode: username_query
+Saved metadata: G:\tmp\task10_ui_smoke_nexblend_images\NexBlend\metadata_20260504_212452.json
+Downloaded 129411322.jpeg
+Reached --max-downloads=1, stopping downloads.
+Downloads complete. Downloaded: 1, skipped: 4, failed: 0
+Saved report: G:\tmp\task10_ui_smoke_nexblend_images\NexBlend\report_20260504_212453.json
+INFO:     127.0.0.1:61478 - "POST /run HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61478 - "GET / HTTP/1.1" 200 OK
+Fetching page 1 [username_query]...
+Collected 100 items on page 1 (total 100).
+Reached --max-items=5, trimming and stopping.
+Data source mode: username_query
+Saved metadata: G:\tmp\task10_ui_smoke_nexblend_videos\NexBlend\metadata_20260504_212454.json
+Downloaded 129411322.jpeg
+Reached --max-downloads=1, stopping downloads.
+Downloads complete. Downloaded: 1, skipped: 4, failed: 0
+Saved report: G:\tmp\task10_ui_smoke_nexblend_videos\NexBlend\report_20260504_212455.json
+INFO:     127.0.0.1:61478 - "POST /run HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61478 - "GET / HTTP/1.1" 200 OK
+Fetching page 1 [username_query]...
+Collected 64 items on page 1 (total 64).
+Reached --max-items=5, trimming and stopping.
+Data source mode: username_query
+Saved metadata: G:\tmp\task10_ui_smoke_lannfield_fallback_on\Lannfield\metadata_20260504_212456.json
+Downloaded 116582444.mp4
+Reached --max-downloads=1, stopping downloads.
+Downloads complete. Downloaded: 1, skipped: 4, failed: 0
+Saved report: G:\tmp\task10_ui_smoke_lannfield_fallback_on\Lannfield\report_20260504_212513.json
+INFO:     127.0.0.1:61478 - "POST /run HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61478 - "GET / HTTP/1.1" 200 OK
+Fetching page 1 [username_query]...
+Collected 64 items on page 1 (total 64).
+Reached --max-items=5, trimming and stopping.
+Data source mode: username_query
+Saved metadata: G:\tmp\task10_ui_smoke_lannfield_fallback_off\Lannfield\metadata_20260504_212516.json
+Downloaded 116582444.mp4
+Reached --max-downloads=1, stopping downloads.
+Downloads complete. Downloaded: 1, skipped: 4, failed: 0
+Saved report: G:\tmp\task10_ui_smoke_lannfield_fallback_off\Lannfield\report_20260504_212517.json
+INFO:     127.0.0.1:61478 - "POST /run HTTP/1.1" 200 OK

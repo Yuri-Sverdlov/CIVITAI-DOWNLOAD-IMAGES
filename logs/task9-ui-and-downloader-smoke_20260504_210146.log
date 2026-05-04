@@ -1,0 +1,40 @@
+[task9] RUN: C:\Python311\python.exe -m unittest -v .\test_downloader_core.py
+Username query returned 0 items; trying author_id fallback.
+Resolved author_id=12345. Trying author_id query.
+Fallback succeeded via 'userId' parameter.
+Downloaded 1001.jpeg
+Downloaded 1002.mp4
+Reached --max-downloads=2, stopping downloads.
+
+test_default_media_type_is_image (test_downloader_core.DownloaderCoreTests.test_default_media_type_is_image) ... ok
+test_fallback_switches_to_author_id_query (test_downloader_core.DownloaderCoreTests.test_fallback_switches_to_author_id_query) ... ok
+test_max_downloads_generates_skipped_reason_and_media_dirs (test_downloader_core.DownloaderCoreTests.test_max_downloads_generates_skipped_reason_and_media_dirs) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.005s
+
+OK
+
+Fetching page 1 [username_query]...
+Collected 100 items on page 1 (total 100).
+Reached --max-items=5, trimming and stopping.
+Data source mode: username_query
+Saved metadata: G:\tmp\task9_ui_smoke_images\NexBlend\metadata_20260504_210149.json
+Downloaded 129411322.jpeg
+Reached --max-downloads=1, stopping downloads.
+Downloads complete. Downloaded: 1, skipped: 4, failed: 0
+Saved report: G:\tmp\task9_ui_smoke_images\NexBlend\report_20260504_210150.json
+[task9] UI https://civitai.com/user/NexBlend/images status_code=200
+[task9] UI payload result: {"status": "success", "message": "completed", "username": "NexBlend", "source_mode": "username_query", "metadata_file": "G:\\tmp\\task9_ui_smoke_images\\NexBlend\\metadata_20260504_210149.json", "report_file": "G:\\tmp\\task9_ui_smoke_images\\NexBlend\\report_20260504_210150.json", "user_output_dir": "G:\\tmp\\task9_ui_smoke_images\\NexBlend", "downloaded": 1, "skipped": 4, "failed": 0}
+Fetching page 1 [username_query]...
+Collected 100 items on page 1 (total 100).
+Reached --max-items=5, trimming and stopping.
+Data source mode: username_query
+Saved metadata: G:\tmp\task9_ui_smoke_videos\NexBlend\metadata_20260504_210152.json
+Downloaded 129412155.jpeg
+Reached --max-downloads=1, stopping downloads.
+Downloads complete. Downloaded: 1, skipped: 4, failed: 0
+Saved report: G:\tmp\task9_ui_smoke_videos\NexBlend\report_20260504_210154.json
+[task9] UI https://civitai.com/user/NexBlend/videos status_code=200
+[task9] UI payload result: {"status": "success", "message": "completed", "username": "NexBlend", "source_mode": "username_query", "metadata_file": "G:\\tmp\\task9_ui_smoke_videos\\NexBlend\\metadata_20260504_210152.json", "report_file": "G:\\tmp\\task9_ui_smoke_videos\\NexBlend\\report_20260504_210154.json", "user_output_dir": "G:\\tmp\\task9_ui_smoke_videos\\NexBlend", "downloaded": 1, "skipped": 4, "failed": 0}
+[task9] ALL CHECKS PASSED
